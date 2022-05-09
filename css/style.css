@@ -1,0 +1,12 @@
+#web{
+    margin:0 auto;
+    width:80%;
+}
+
+body{background-color: #ccc;}
+header, article, footer,#zonaA,#zonaB{
+    background-color: #FFFFFF;
+    border:2px solid #000;
+    text-align:center;
+    position: relative;
+}
