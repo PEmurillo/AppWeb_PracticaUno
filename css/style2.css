@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+header {
+    height: 200px;
+    background-color: #127;
+}
+
+nav {
+    width: 40%;
+    margin-left: 60%;
+    margin-top:-30px;
+}
+
+.general {
+    height: 60px;
+    background-color: #693;
+}

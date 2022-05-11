@@ -10,3 +10,39 @@ header, article, footer,#zonaA,#zonaB{
     text-align:center;
     position: relative;
 }
+
+header{
+    width:100%;
+    min-height:150px;
+    margin: 20px 0 20px 0;
+
+}
+
+#zonaA{
+    width:20%;
+    min-height:500px;
+    margin: 0% 0% 2% 0;
+    float: left; /* left o right*/
+}
+
+article{
+    width:50%;
+    min-height:500px;
+    margin: 0% 4% 2% 4%;
+    float: left;
+}
+
+#zonaB{
+    width:20%;
+    min-height:500px;
+    margin: 0% 0% 2% 0;
+    float: right; /* left o right*/
+}
+
+footer{
+    margin-top: 0%;
+    margin-bottom: 20px;
+    min-height:200px;
+    width:100%;
+    float: left;
+}
