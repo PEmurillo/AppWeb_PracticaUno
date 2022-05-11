@@ -15,15 +15,65 @@ header{
     width:100%;
     min-height:150px;
     margin: 20px 0 20px 0;
-
 }
+
+    #titulo{
+        width:100%;
+        float:left;
+        margin: 20px 0 20px 0;
+    }
+
+    #slider{
+        width:100%;
+        float:left;
+        margin: 2% 0 2% 4%;
+        background-color: #ccc;
+        border: 2px solid #000;
+        min-height:100px;
+    }
+
+    #social{
+        width:20%;
+        float:right;
+        margin: 2% 0 2% 0%;
+        background-color: #ccc;
+        border: 2px solid #000;
+        min-height:100px;
+    }
+
+
 
 #zonaA{
     width:20%;
     min-height:500px;
     margin: 0% 0% 2% 0;
-    float: left; /* left o right*/
+    float: left;
+    border: 2px solid #000/* left o right*/
 }
+
+    #menu{
+    width:95%;
+    background-color: #a3c7e4;
+    border: 2px solid #D2AAEA;
+    min-height:150px;
+    margin: 2% 3% 2% 2%;
+    }
+
+    #busqueda{
+        width:95%;
+        background-color: #a3c7e4;
+        border: 2px solid #D2AAEA;
+        min-height:150px;
+        margin: 2% 3% 2% 2%;
+        }
+
+    #encuesta{
+        width:95%;
+        background-color: #a3c7e4;
+        border: 2px solid #D2AAEA;
+        min-height:160px;
+        margin: 2% 3% 2% 2%;
+        }
 
 article{
     width:50%;
@@ -38,6 +88,22 @@ article{
     margin: 0% 0% 2% 0;
     float: right; /* left o right*/
 }
+
+#patrocinios{
+    width:92%;
+    background-color: #a3c7e4;
+    border: 2px solid #D2AAEA;
+    min-height:300px;
+    margin: 3% 5% 3% 3%;
+    }
+
+    #otros{
+        width:92%;
+        background-color: #a3c7e4;
+        border: 2px solid #D2AAEA;
+        min-height:160px;
+        margin: 3% 5% 3% 3%;
+        }
 
 footer{
     margin-top: 0%;
